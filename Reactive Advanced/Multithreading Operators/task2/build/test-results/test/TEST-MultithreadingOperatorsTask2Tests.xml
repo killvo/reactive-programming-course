@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultithreadingOperatorsTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-18T19:04:15" hostname="DESKTOP-9TN79P0" time="0.495">
+  <properties/>
+  <testcase name="testSolution()" classname="MultithreadingOperatorsTask2Tests" time="0.495"/>
+  <system-out><![CDATA[21:04:15.784 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+Threads:single-1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

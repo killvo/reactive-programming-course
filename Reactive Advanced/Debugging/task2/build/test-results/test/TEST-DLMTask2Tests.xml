@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-18T19:24:17" hostname="DESKTOP-9TN79P0" time="0.472">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask2Tests" time="0.472"/>
+  <system-out><![CDATA[21:24:17.913 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+21:24:17.921 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: DLMTask2Tests$$Lambda$331/0x0000000100218248@4f1bfe23
+21:24:18.054 [Test worker] INFO After PublisherOn - | onSubscribe([Fuseable] FluxPublishOn.PublishOnSubscriber)
+21:24:18.057 [Test worker] INFO After PublisherOn - | request(unbounded)
+21:24:18.062 [parallel-1] INFO Before PublishOn - request(256)
+21:24:18.081 [single-1] INFO After PublisherOn - | onNext(0)
+21:24:18.097 [single-1] INFO After PublisherOn - | onNext(1)
+21:24:18.097 [single-1] INFO After PublisherOn - | onNext(2)
+21:24:18.113 [single-1] INFO After PublisherOn - | onNext(3)
+21:24:18.133 [single-1] INFO After PublisherOn - | onNext(4)
+21:24:18.133 [single-1] INFO After PublisherOn - | onNext(5)
+21:24:18.143 [single-1] INFO After PublisherOn - | onNext(6)
+21:24:18.159 [single-1] INFO After PublisherOn - | onNext(7)
+21:24:18.159 [single-1] INFO After PublisherOn - | onNext(8)
+21:24:18.174 [single-1] INFO After PublisherOn - | onNext(9)
+21:24:18.176 [single-1] INFO After PublisherOn - | cancel()
+21:24:18.308 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
